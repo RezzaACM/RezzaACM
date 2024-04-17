@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RezzaACM you can call me Reza
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning DevOps maybe someone can share the best reference related DevOps to me It's veriy usefull for me :D
-- 📫 How to reach me please follow me on Instagram: @rezzaacm || Twitter: @rezzaacm
+- 👋 Hi, I’m Funky Reza you can call me Reza
+- 👀 I am interested in software engineering 
+- 🌱 I am currently learning DevOps. Can someone suggest the best references related to DevOps? It would be very helpful for me. :D
+- 📫 To get in touch with me, you can follow me on Instagram with the username @funky.reza or on Twitter with the username @rezzaacm.
 
 <!---
 RezzaACM/RezzaACM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
